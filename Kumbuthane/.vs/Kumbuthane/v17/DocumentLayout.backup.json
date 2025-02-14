@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\bitirmeProjesi\\bitirme projem\\Kumbuthane\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64BAFB42-1277-44FE-810F-CC87A90A70D1}|Kumbuthane.csproj|d:\\bitirmeprojesi\\bitirme projem\\kumbuthane\\views\\kitap\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64BAFB42-1277-44FE-810F-CC87A90A70D1}|Kumbuthane.csproj|solutionrelative:views\\kitap\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BAFB42-1277-44FE-810F-CC87A90A70D1}|Kumbuthane.csproj|d:\\bitirmeprojesi\\bitirme projem\\kumbuthane\\controllers\\kitapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64BAFB42-1277-44FE-810F-CC87A90A70D1}|Kumbuthane.csproj|solutionrelative:controllers\\kitapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 229,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\bitirmeProjesi\\bitirme projem\\Kumbuthane\\Views\\Kitap\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Kitap\\Index.cshtml",
+              "ToolTip": "D:\\bitirmeProjesi\\bitirme projem\\Kumbuthane\\Views\\Kitap\\Index.cshtml*",
+              "RelativeToolTip": "Views\\Kitap\\Index.cshtml*",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T13:29:45.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KitapController.cs",
+              "DocumentMoniker": "D:\\bitirmeProjesi\\bitirme projem\\Kumbuthane\\Controllers\\KitapController.cs",
+              "RelativeDocumentMoniker": "Controllers\\KitapController.cs",
+              "ToolTip": "D:\\bitirmeProjesi\\bitirme projem\\Kumbuthane\\Controllers\\KitapController.cs",
+              "RelativeToolTip": "Controllers\\KitapController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T13:28:54.935Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
